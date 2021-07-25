@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 ### 💻⌨️ Languages and Tools
 
 #### Frontend
@@ -34,3 +35,7 @@ Here are some ideas to get you started:
 
 ### 📊 My Stats 📊
 [![Mihyun's github stats](https://github-readme-stats.vercel.app/api?username=mihyunP)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🧾 Used Language
+
+[![Top Langs](https://camo.githubusercontent.com/657326d83b97bf6ca53557a4a046274c2bbbf367e583f139a77af5cabc94ddb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6368616579656f6e6b696d30323233266c61796f75743d636f6d70616374)](https://github.com/anuraghazra/github-readme-stats)
